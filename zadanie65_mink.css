@@ -1,0 +1,36 @@
+p{
+    font-size: 11pt;
+}
+p:first-child
+{
+    font-size:7mm;
+    font-style:italic;
+}
+
+#pierwszy_minkiewicz{
+    width: 760pt;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(13, 212, 238);    
+    border: 5px solid rgb(0, 128, 179);
+    border-radius: 11mm;
+}
+#drugi_minkiewicz{
+    width: 960px;
+
+    
+    background-color: rgb(148, 31, 138);
+    border: 3px solid rgb(0,0,0);
+    border-radius: 17mm;
+
+}
+#trzeci_minkiewicz{
+    width: 1160px;
+
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(22, 160, 34);    
+    border: 7px solid rgb(81, 2, 42);
+    border-radius: 10mm;
+
+}   

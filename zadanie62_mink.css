@@ -1,0 +1,21 @@
+p{
+    font-size: 5mm;
+    color: rgba(134, 130, 13, 0.507);
+    
+    }
+    
+    body{
+        background-color: silver;
+    }
+    p:lang(pl)
+    {
+    font-size: 11mm;
+    color:rgb(115, 114, 112);
+    
+    }
+    p:lang(en)
+    {
+    font-size: 15mm;
+    color: rgb(0, 17, 255);
+    }
+    

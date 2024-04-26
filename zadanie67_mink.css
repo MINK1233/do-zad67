@@ -1,0 +1,52 @@
+p#pierwszy_akapit
+ {
+ color:#0000f3;
+ font-size:19pt;
+ }
+p#pierwszy_akapit:first-letter
+ {  
+ color:rgb(137, 139, 10);
+ font-size:113pt;
+ }
+ p#drugi_akapit:first-letter
+ {
+ color:rgb(238, 255, 0);
+ font-size:113pt;
+ }
+ p#drugi_akapit
+ {
+ color:#666699;
+ font-size:10pt;
+}
+h1:first-letter
+ {
+ color:#666699;
+ font-size:113pt;
+ }
+ h1
+ {
+ color:#6600FF;
+ font-size:70pt;
+
+ }
+ p#hello::first-line
+
+ {
+ color:red;
+ font-size:30pt;
+ }
+
+
+p#hello::first-letter
+
+{
+color:red;
+font-size:50pt;
+}
+
+p#hello
+
+{
+color:blue;
+font-size:30pt;
+}
